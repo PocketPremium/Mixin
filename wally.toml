@@ -1,0 +1,9 @@
+[package]
+name = "pocketpremium/mixin"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "A deep copying mixin utility for Luau with full type support."
+license = "MIT"
+
+[dependencies]
